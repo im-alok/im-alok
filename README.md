@@ -1,5 +1,5 @@
 <p align="center">
- <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello%2C+Hii+I'm+Alok+Ranjan.;%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87+%2C+%E0%A4%AE%E0%A5%88%E0%A4%82+%E0%A4%86%E0%A4%B2%E0%A5%8B%E0%A4%95+%E0%A4%B0%E0%A4%82%E0%A4%9C%E0%A4%A8++%7C;Sat+Sri+Akaal+%2C+Maira+naa+Alok+Ranjan+aa;As+salamu+alaykum!+ismee+Alok+Ranjan;Hola+!!+soy+Alok+Ranjan.;Bonjour%2C+je+m'appelle+Alok+Ranjan.;Hallo%2C+ich+bin+Alok+Ranjan." alt="Typing SVG" /></a>
+ <a href="#"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Hello%2C+Hii+I'm+Alok+Ranjan.;%E0%A4%A8%E0%A4%AE%E0%A4%B8%E0%A5%8D%E0%A4%A4%E0%A5%87+%2C+%E0%A4%AE%E0%A5%88%E0%A4%82+%E0%A4%86%E0%A4%B2%E0%A5%8B%E0%A4%95+%E0%A4%B0%E0%A4%82%E0%A4%9C%E0%A4%A8++%7C;Sat+Sri+Akaal%2C+Maira+naa+Alok+Ranjan+aa;As+salamu+alaykum!+ismee+Alok+Ranjan;Hola+!!+soy+Alok+Ranjan.;Bonjour%2C+je+m'appelle+Alok+Ranjan.;Hallo%2C+ich+bin+Alok+Ranjan." alt="Typing SVG" /></a>
 </p>
 
 # 💫 About Me:
