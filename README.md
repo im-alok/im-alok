@@ -1,3 +1,8 @@
+#Greetings
+<p align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello%2C+Hii%2C+नमस्ते|%2C+ Sat + Sri + Akaal %2C+As-salamu + alaykum %2C+ Hola %2C+ Bonjour %2C+Hallo" alt="Typing SVG" /></a>
+</p>
+
 # 💫 About Me:
 🔭I'm currently working on Full Stack Web Applications<br>👯I'm looking to collaborate on on projects<br>🤝 I'm looking for help with Backend Services<br>🌱 I'm currently learning Docker and AWS<br>💬 Ask me about anything Web Related<br>⚡ Fun fact : Programming is 10% writing code and 90% understanding why it’s not working
 
